@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/fa2e034805fd0f292a9fbc7d9690cde639905af5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_580ebcebc492da00f245e6baaf8fb99bc56c498c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/c6dcecfd2dafc9de451b071c84e89fe90fc4fdd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_4066ec18b8d86df190ee5d1c12cda664e0329ec8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/converter-gson-2.2.0_6c0abef76bb4c8b8ec8c53998d0a2f2bd83ab8c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/44b3da98f7f784bd672079a8fd18571a9d98c287/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_dddc9acde908eda80f73ab084314f90f1c6be30a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/23d203ec770c8730cffaa2e98e8609e1905fba3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_a2fe9384cf4c251a83ad53a1b52674a2dce6414e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.2/3fb533efdaa50a768c394aa4624144cf8df17845/objenesis-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fb533efdaa50a768c394aa4624144cf8df17845">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/objenesis-2.2_56c265feb0943367573d6291e11545ba81acf684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/haha-2.0.3_36a99a03273d2f9e80ee1b54c3c0bdbbcf0c619e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/28ae70f1451e99087a540db487ebee438666ca21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_b3a3a98dbb4046ffb7022159def921a207c0c5a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/1bf288eb3bce5c21ef27eb4dbebbd1efdfb4b6ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_ba6c7bf84cb2c728973e509b974f51df0ec3a0a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/logging-interceptor-3.6.0_ca80175af073ace23d71b8474bcfd24a6c337b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/gson-2.7_1f3154303327756733a1a42cca6fad54f0ff55d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/reflectasm/1.11.3/8b102eed2f12412b254946811111ea48bc03a266/reflectasm-1.11.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b102eed2f12412b254946811111ea48bc03a266">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/reflectasm-1.11.3_69c2742d6bc29f2a197a06d7e147614894d6e4ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/fc2024b85f59267f450e82c5236ad1b9d1b948f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_f6f03768ecb0cfe49fcc5838f83266e0da504061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/2cb6eba1979f13a0467329788976961d20df2905/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_81b980ecb67dbb7a4e32ced0b833f93b08b887ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/kryo/4.0.0/9f5c64c1315ec79bee0f56bb88e4ae94b65048ce/kryo-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f5c64c1315ec79bee0f56bb88e4ae94b65048ce">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/kryo-4.0.0_323a37c611e682fd06b958714a0ae46ccd06e238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/okio-1.11.0_25e3ea5378004ab340af1baecec5ee361b6c0c5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/5d4db8fb3a30ef402caa7a8b6b6225d75394c5cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_fa6b85aa0895698a864a0abb3cc11f5177aeca30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/1ad3a97ce03ac986c4caf4903547acc290d3d34d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_42c2b0b66a68dccc25318c259ee28c0c5d65a445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/251283ddda47c125264affcf5e164065899558bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_845ca474b407fd5d9c569c955571dff39e944a62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/1ceb588b3b1de05a75c31c6bd4b8b3839d01adb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d6c3241991f0b856671273fccffabb0e8003c69">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_c5a694a872b05231dd9b88dc3b7ebd0078772b00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/okhttp-3.6.0_ae1b40f39f12db230bafad9fa695e87ba938dc5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/incremental-classes/DEV/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1cec30ed3e459a4ec959610d837c16253ff742d8">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10000/instant-run-bootstrap_ab15ad33123ed59bded411b283e65e9842710e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/retrofit-2.2.0_2d88fee2dd97c1f583d4cf00bcdc6fd5cc0702b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/bolts-applinks-1.4.0_b87ba3b7e02937cd0204425c92c689b778437257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/d4e1209c1b231fe136b8fc16fb2934f9c6c01001/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_67ba01bf4717dae073d85f9b7867fd7e628df112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/7fe8522527c705e5829498c873cc515f3cccc1e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d594befb390f7c12b9b460f7c64805a635f2ced9">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_e93ade49313a5202548ebdbda9807d48bc4be755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.esotericsoftware/minlog/1.3.0/ff07b5f1b01d2f92bb00a337f9a94873712f0827/minlog-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff07b5f1b01d2f92bb00a337f9a94873712f0827">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/minlog-1.3.0_57ad241032d0982efd95fcc3b185f374123ace96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/leakcanary-watcher-1.5_7c323c7b2ff3f7be7fb4fffc8544aca85294e665/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/incremental-runtime-classes/DEV/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10000/instant-run_3dbf578bbb33690b1258954ee246105b65de7955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/2c8fe933b8594a439f6addaf3ecb9ca3bc8510cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_a1758310515f5f2d50c8624c3e4fb8e1dc3c1e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/a929e92d36883bb3593ccd47f159b2f273e45466/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_eaa748a6919c3d388a40088e384e5630a3be2c55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/leakcanary-analyzer-1.5_140c9116eea63480def2414fac9a7c5f97bd1245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/android-studio/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/asm-5.0.4_594d73d4e90c9ae2cec530d48cbb85fc434805af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/de.javakaffee/kryo-serializers/0.40/562cb61898302da4e8d3fd141c821edb1bc6b36d/kryo-serializers-0.40.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="562cb61898302da4e8d3fd141c821edb1bc6b36d">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/kryo-serializers-0.40_22b68ac6c6107a57981333afe362accada7d22c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.android/build-cache/621f00c3cce840fcb14c2ae38a34cae99760df33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a70160a70685ce25bda1c6e094c73676a399039">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/classes_db54bc7e6d5a0a0b7f0d872497827125a0239d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keshav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/keshav/AndroidStudioProjects/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10/bolts-tasks-1.4.0_5ac6c3d4effe1db04299875f40480feedc7ac6ea/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc.iml" filepath="$PROJECT_DIR$/CL-android-baseproject-master-3c14d908264980d3caf563abae6cba9498919fdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
