@@ -53,7 +53,7 @@ public class UserDetailsFragment extends Fragment {
             @Override
             public void onClick(final View v) {
                 Intent intent = new Intent(getContext(), ShowUserPosts.class);
-                intent.putExtra(AppConstant.KEY_ID, mBundle.getInt(AppConstant.KEY_ID));
+                intent.putExtra(AppConstant.KEY_ID, mBundle.getInt(AppConstant.KEY_ID) + 1);
                 getActivity().startActivity(intent);
                 getActivity().finish();
             }
