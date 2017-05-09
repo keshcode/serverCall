@@ -79,6 +79,7 @@ public class RecyclerAdaptor extends RecyclerView.Adapter<RecyclerAdaptor.ViewHo
             UserPosts mUserPost = mUserPosts.get(position);
             holder.tvTitle.setText(mUserPost.getTitle());
             holder.tvBody.setText(mUserPost.getBody());
+            holder.tvPostId.setText(String.valueOf(mUserPost.getId()));
         }
     }
 
@@ -94,7 +95,7 @@ public class RecyclerAdaptor extends RecyclerView.Adapter<RecyclerAdaptor.ViewHo
      * inner viewHolder class contians the view to be inflated
      */
     public class ViewHolder extends RecyclerView.ViewHolder {
-        private TextView tvId, tvName, tvTitle, tvBody;
+        private TextView tvId, tvName, tvTitle, tvBody, tvPostId;
 
         /**
          * @param itemView reference of the view to be inflated
@@ -123,6 +124,7 @@ public class RecyclerAdaptor extends RecyclerView.Adapter<RecyclerAdaptor.ViewHo
             } else {
                 tvTitle = (TextView) itemView.findViewById(R.id.tvTitle);
                 tvBody = (TextView) itemView.findViewById(R.id.tvBody);
+                tvPostId = (TextView) itemView.findViewById(R.id.tvPostId);
             }
 
         }
